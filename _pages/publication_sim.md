@@ -11,31 +11,35 @@ author_profile: true
 
 {% include base_path %}
 
-## 2024
-1. [[PDF](https://arxiv.org/abs/2311.10806)][[Code]] **Yucheng Wang**, Yuecong Xu, Jianfei Yang, Min Wu, Xiaoli Li, Lihua Xie and Zhenghua Chen*. "SEA++: Multi-Graph-based High-Order Sensor Alignment for Multivariate Time-Series Unsupervised Domain Adaptation" IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), accepted, to appear (2024).
+# Selected Journal Papers 
 
-## 2023
+1.  Aye Phyu Phyu Aung, Xinrun Wang, Ruiyu Wang, Hau Chan, Bo An, **Xiaoli Li**, J. Senthilnath, "Double Oracle Neural Architecture Search for Game Theoretic Deep Learning Models", *IEEE Transactions on Image Processing*, 2025.
+2.  Xue Geng, Zhe Wang, Chunyun Chen, Qing Xu, Kaixin Xu, Chao Jin, Manas Gupta, Xulei Yang; Chen, Zhenghua Chen, Mohamed Sabry Aly, Jie Lin, Min Wu, **Xiaoli Li**, "From Algorithm to Hardware: A Survey on Efficient and Safe Deployment of Deep Neural Networks", *IEEE Transactions on Neural Networks and Learning Systems*, 2024.
+3.  Emadeldeen Eldele, Mohamed Ragab, Zhenghua Chen, Min Wu, Chee-Keong Kwoh, **Xiaoli Li**, "Label-efficient Time Series Representation Learning: A Review", *IEEE Transactions on Artificial Intelligence (TAI)*, 2024.
+4.  Yucheng Wang, Yuecong Xu, Jianfei Yang, Min Wu, **Xiaoli Li**, Lihua Xie, Zhenghua Chen, "SEA++: Multi-Graph-based High-Order Sensor Alignment for Multivariate Time-Series Unsupervised Domain Adaptation", *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2024.
+5.  Keyu Wu, Shengkai Chen, Min Wu, Shili Xiang, Ruibing Jin, Yuecong Xu, **Xiaoli Li**, Zhenghua Chen, "Reinforced Reweighting for Self-supervised Partial Domain Adaptation", *IEEE Transactions on Artificial Intelligence*, 2024.
+6.  Qing Xu, Keyu Wu, Min Wu, Kezhi Mao, **Xiaoli Li**, Zhenghua Chen, "Reinforced knowledge distillation for time series regression", *IEEE Transactions on Artificial Intelligence (TAI)*, 2024.
+7.  Emadeldeen Eldele, Mohamed Ragab, Zhenghua Chen, Min Wu, Chee-Keong Kwoh, **Xiaoli Li**, Cuntai Guan, "Self-supervised Contrastive Representation Learning for Semi-supervised Time-Series Classification", *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*, 2023.
+8.  Zhenghua Chen, Min Wu, Alvin Chan, **Xiaoli Li**, Yew-Soon Ong, "A Survey on AI Sustainability: Emerging Trends on Learning Algorithms and Research Challenges", *IEEE Computational Intelligence Magazine*, 2023.
+9.  Emadeldeen Eldele, Mohamed Ragab, Zhenghua Chen, Min Wu, Chee Keong Kwoh, **Xiaoli Li**, "Self-supervised Learning for Label-Efficient Sleep Stage Classification: A Comprehensive Evaluation", *IEEE in Transactions on Neural Systems & Rehabilitation Engineering*, 2023.
+10. Yucheng Wang, Min Wu, Ruibing Jin, **Xiaoli Li**, Lihua Xie, Zhenghua Chen, "Local-Global Correlation Fusion based Graph Neural Network for Remaining Useful Life Prediction", *IEEE Transactions on Neural Networks and Learning Systems*, 2023.
+11. Mohamed Ragab Mohamed Adam, Emadeldeen Eldele, Wee Ling Tan, Foo Chuan Sheng, Chen Zhenghua, Wu Min, Kwoh Chee-Keong, **Xiaoli Li**, "ADATIME: A Benchmarking Suite for Domain Adaptation on Time Series Data", *ACM Transactions on Knowledge Discovery from Data (TKDD)*, 2023.
+12. Jin Ruibing, Zhou Duo, Wu Min, **Xiaoli Li**, Chen Zhenghua, "An adaptive and dynamical neural network for machine remaining useful life prediction", *IEEE Transactions on Industrial Informatics*, 2023.
+13. Mohamed Ragab, Emadeldeen Eldele, Zhenghua Chen, Min Wu, Chee-Keong Kwoh and **Xiaoli Li**, "Self-supervised Autoregressive Domain Adaptation for Time Series Data", *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2022.
+14. Devki Nandan Jha, Zhenghua Chen, Shudong Liu, Min Wu, Jiahan Zhang, Graham Morgan, Rajiv Ranjan, and **Xiaoli Li**, "A hybrid accuracy- and energy-aware human activity recognition model in IoT environment", *IEEE Transactions on Sustainable Computing*, 2022.
+15. Yahui Long, Min Wu, Yong Liu, Yuan Fang, Chee-Keong Kwoh, Jinmiao Chen, Jiawei Luo and **Xiaoli Li**, "Pre-training Graph Neural Networks for Link Prediction in Biomedical Networks", *Bioinformatics*, 2022.
 
-1. [[PDF](https://arxiv.org/abs/2309.05202)][[Code](https://github.com/Frank-Wang-oss/TS-GAC)] **Yucheng Wang**, Yuecong Xu, Jianfei Yang, Min Wu, Xiaoli Li, Lihua Xie and Zhenghua Chen*. "Graph Contextual Contrasting for Multivariate Time Series Classification" The 38th Annual AAAI Conference on Artificial Intelligence (AAAI-24), accepted, to appear (2023).
+# Selected Conference Papers 
 
-1. [[PDF](https://arxiv.org/abs/2309.05305)][[Code](https://github.com/Frank-Wang-oss/FCSTGNN)] **Yucheng Wang**, Yuecong Xu, Jianfei Yang, Min Wu, Xiaoli Li, Lihua Xie and Zhenghua Chen*. "Fully-Connected Spatial-Temporal Graph for Multivariate Time Series Data" The 38th Annual AAAI Conference on Artificial Intelligence (AAAI-24), accepted, to appear (2023).
-
-1. [[PDF](https://ieeexplore.ieee.org/abstract/document/10322866)] **Yucheng Wang**, Min Wu, Ruibing Jin, Xiaoli Li, Lihua Xie, and Zhenghua Chen*. "Local-Global Correlation Fusion based Graph Neural Network for Remaining Useful Life Prediction" IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), accepted, to appear (2023).
-
-## 2022
-1. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/26221)][[Code](https://github.com/Frank-Wang-oss/SEA)] **Yucheng Wang**, Yuecong Xu, Jianfei Yang, Zhenghua Chen*, Min Wu, Xiaoli Li and Lihua Xie. "SEnsor Alignment for Multivariate Time-Series Unsupervised Domain Adaptation" The 37th Annual AAAI Conference on Artificial Intelligence (AAAI-23), 37(8), 10253-10261 (2022).
-
-1. [[PDF](https://ieeexplore.ieee.org/abstract/document/10036065/)][[Code](https://github.com/Frank-Wang-oss/HierCorrPool)] **Yucheng Wang**, Min Wu, Xiaoli Li, Lihua Xie and Zhenghua Chen*. "Multivariate Time Series Representation Learning via Hierarchical Correlation Pooling Boosted Graph Neural Network" IEEE Transactions on Artificial Intelligence (IEEE TAI), vol. 5, no. 1, pp. 321-333 (2022).
-
-## 2021
-1. [[PDF](https://ieeexplore.ieee.org/abstract/document/9681817)] **Yucheng Wang**, Liang Gao, Yiping Gao, Xinyu Li*. "A Graph Guided Convolutional Neural Network for Surface Defect Recognition" IEEE Transactions on Automation Science and Engineering (IEEE TASE), vol. 19, no. 3, pp. 1392-1404 (2021).
-
-1. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S1474034621001440)] **Yucheng Wang**, Xinyu Li, Yiping Gao, Lijian Wang, Liang Gao*. "A new Feature-Fusion Method based on Training Dataset Prototype for Surface Defect Recognition" Advanced Engineering Informatics (ADVEI), vol. 50, pp. 101392 (2021).
-
-## 2020
-1. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0736584520302933)][[Code](https://github.com/Frank-Wang-oss/Graph-based-semi-supervised-learning-for-surface-defect-recognition)] **Yucheng Wang**, Liang Gao, Yiping Gao, Xinyu Li*. "A new Graph-based Semi-supervised Method for Surface Defect Classification" Robotics and Computer-Integrated Manufacturing (RCIM), vol. 68, pp. 102083 (2020).
-
-1. [[PDF](https://ieeexplore.ieee.org/abstract/document/9369357)][[Code](https://github.com/Frank-Wang-oss/Anchor-vector-Class-Balanced-Graph-Convolutional-Network-for-class-imbalance)] **Yucheng Wang**, Liang Gao, Xinyu Li*, Yiping Gao, Xiaotong Xie. "A New Graph-Based Method for Class Imbalance in Surface Defect Recognition" IEEE Transactions on Instrumentation and Measurement (IEEE TIM), vol. 70, pp. 1-16 (2020).
-
-1. [[PDF](https://ieeexplore.ieee.org/abstract/document/9216752)] **Yucheng Wang**, Liang Gao, Yiping Gao, Xinyu Li*, Lili Gao. "Knowledge Graph-guided Convolutional Neural Network for Surface Defect Recognition" 16th International Conference on Automation Science and Engineering (IEEE CASE), pp. 594-599 (2020).
+1.  Yao Xiao, Hai Ye, Linyao Chen, Hwee Tou Ng, Lidong Bing, **Xiaoli Li**, Roy Ka-Wei Lee, "Finding the Sweet Spot: Preference Data Construction for Scaling Preference Optimization", ACL 2025.
+2.  Jiaxuan Zhang, Emadeldeen Eldele, Fuyuan CAO, Yang Wang, **Xiaoli Li**, Jiye Liang, "Counterfactual Contrastive Learning with Normalizing Flows for Robust Treatment Effect Estimation", ICML 2025.
+3.  Peiliang Gong, Mohamed Ragab, Min Wu, Zhenghua Chen, Yongyi Su, **Xiaoli Li**, Daoqiang Zhang, "Augmented Contrastive Clustering with Uncertainty-Aware Prototyping for Time Series Test Time Adaptation", KDD 2025.
+4.  Emadeldeen Eldele, Mohamed Ragab, Zhenghua Chen, Min Wu, **Xiaoli Li**, "TSLANet: Rethinking Transformers for Time Series Representation Learning", ICML 2024.
+5.  Qing Xu, Min Wu, **Xiaoli Li**, Kezhi Mao, Zhenghua Chen, "Reinforced Cross-Domain Knowledge Distillation on Time Series Data", NeurIPS 2024.
+6.  Yucheng Wang, Yuecong Xu, Zhenghua Chen, Min Wu, **Xiaoli Li**, "SEnsor Alignment for Multivariate Time-Series Unsupervised Domain Adaptation", AAAI 2023.
+7.  Wang Jing, Aixin Sun, Hao Zhang and **Xiaoli Li**, "MS-DETR: Natural Language Video Localization with Sampling Moment-Moment Interaction", ACL 2023.
+8.  Aye Phyu Phyu Aung, Xinrun Wang, Runsheng Yu, Bo An, Senthilnath Jayavelu, **Xiaoli Li**, "DO-GAN: A double oracle framework for generative adversarial networks", CVPR 2022.
+9.  Keyu Wu, Wu Min, Chen Zhenghua, Xu Yuecong and **Xiaoli Li**, "Generalizing Reinforcement Learning through Fusing Self-Supervised Learning into Intrinsic Motivation", AAAI 2022.
+10. Keyu Wu, Min Wu, Jianfei Yang, Zhenghua Chen, Zhengguo Li, and **Xiaoli Li**, "Deep Reinforcement Learning Boosted Partial Domain Adaptation", IJCAI 2021.
+11. Emadeldeen Eldele, Mohamed Ragab, Zhenghua Chen, Min Wu, Chee Keong Kwoh, **Xiaoli Li** and Cuntai Guan, "Time-Series Representation Learning via Temporal and Contextual Contrasting", IJCAI 2021.
 
