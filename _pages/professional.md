@@ -86,3 +86,43 @@ redirect_from:
 - ACL
 - CIKM
 
+
+# Invited Talk and Keynote
+
+- Keynote speaker at The 3rd International Conference on Cloud Computing and Computer Network (CCCN 2025), Singapore, May 16-18, 2025.
+- Keynote speaker at Singapore Intelligence, Robotics and Control Symposium (SIRCS 2025), , March 21, 2025.
+- Keynote speaker at The 2025 8th International Symposium on Big Data and Applied Statistics (ISBDAS 2025), Guangzhou, China, Feb 28-March 2, 2025
+- Keynote speaker at International Conference on Digital Education and Information Technology (DEIT 2025), Nanjing, China, Feb 21-23, 2025.
+- Keynote speaker at IEEE 17th International Conference on Computer Research and Development (ICCRD 2025), Shangrao, China, Jan 17-19, 2025.
+- Keynote speaker at The 10th International Conference on Computer and Communications (ICCC), Chengdu, China, Dec 13-16, 2024.
+- Keynote speaker at The 6th International Conference on Frontier Technologies of Information and Computer (ICFTIC 2024), Chengdu, China, Nov 8-10, 2024.
+- Keynote speaker at 2024 International Symposium on Artificial Intelligence for Education, Xi'An, China, Sep 6-8, 2024.
+- Keynote speaker at IEEE International Congress on Intelligent and Service-Oriented Systems Engineering (CISOSE), Shanghai, China, July 15-18, 2024.
+- Keynote speaker at IEEE Big Data Computing and Machine Learning Conference, Shanghai, China, July 15-18, 2024.
+- Keynote speaker at The 3rd International Symposium on Robotics, Artificial Intelligence and Information Engineering, Singapore, July 5, 2024.
+- Keynote speaker at The 14th International Workshop on Computer Science and Engineering (WCSE 2024), Phuket Island, Thailand, June 19-21, 2024.
+- Invite talk at Federated Learning in the Age of Foundation Models Summer School @ Singapore 2024 (FL@FM-Singapore'24) , May 13-14, 2024.
+- Keynote speaker at The 28th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2024), May 7-10, Taipei, 2024.
+- Keynote speaker at The 2nd International Conference on Cloud Computing and Computer Network (CCCN 2024) , Singapore, April 19-21, 2024.
+- Keynote speaker at Advanced Semiconductor Technology Conference (ASTC), Singapore, Nov 16-17, 2023
+- Keynote speaker at Chief Data Officer and Information Quality (CDOIQ) Asia Pacific Symposium, May 17 18, 2023
+- Invite talk at Green Edge Workshop, May 26, 2023.
+- Keynote speaker of International conference on Computer, Communication and Signal Processing, 2023.
+- Invite talk at Khalifa University, AI for Time-Series Data Analytics, Dec 7, 2022.
+- Invite talk at Mohamed bin Zayed University of Artificial Intelligence, AI for Time-Series Data Analytics, Dec 9, 2022.
+- Keynote speaker of The 3rd International Conference on Artificial Intelligence and Computer Engineering, 2022.
+- Keynote speaker of International Student Conference on Artificial Intelligence, 2022.
+- Keynote speaker of International conference on robotics & artificial intelligence, 2022.
+- Keynote speaker of The 5th Asia Conference on Machine Learning and Computing, 2022.
+- Keynote speaker of LTA s Analytics Day 2021.
+- Speaker of A*STAR Scientific Conference, 2001.
+- Panel discussion: Innovate UK - Online Global Expert Mission, NGS GEM Singapore Accountancy Tech Day, 2001.
+- Speaker of Masterclass for Supervisors (Brainstorming and thinking outside of the box), A*STAR AGA, 2001.
+- Keynote speaker of Heterogenous information network for bioinformatics applications, KDD 2021 Heterogeneous information network analysis and applications (HENA).
+- Panellist of Understanding the Value of Your Data in the New World at IVAS (IVAS-IVSC Business Valuation Virtual Conference 2020 Programme).
+- Keynote speaker of World Artificial Intelligence Conference (WAIC), 2020.
+- CNA News Featured in Channel News Asia for talking about KPMG joint lab project , 2019.
+- The 2nd SINGAPORE-NANJING International AI Forum on SMART CITIES Zhao Bao, 2019.
+- APAC CIO Outlook Big Data Analytics , 2017.
+- Invited speaker of Big Data & Analytics Innovation Summit, 2017
+
