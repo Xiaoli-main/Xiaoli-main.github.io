@@ -1,29 +1,29 @@
 ---
 permalink: /
-title: "Wang Yucheng"
+title: "Li Xiaoli"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-- I am currently a Senior Research Engineer at [Institute for Infocomm Research (I2R)](https://www.a-star.edu.sg/i2r), Agency for Science, Technology and Research (ASTAR), Singapore. I am also a part-time PhD student at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), Singapore under the supervision of [Prof. Xie Lihua](https://dr.ntu.edu.sg/cris/rp/rp00784) and [Dr. Chen Zhenghua](https://zhenghuantu.github.io/).
+- Prof Li Xiaoli joined SUTD on 15 August 2025 as Head of the Information Systems Technology and Design (ISTD) Pillar. In this role, he provides strategic leadership in academic programme development, research direction, and industry engagement across the Pillar.
 
-- My research interest includes **Graph Neural Network (GNN)**, **Multivariate Time-Series (MTS) Data**, **Unsupervised Domain Adaptation (UDA)**.
+Prof Li brings over 30 years of combined experience in academia and industry. Before joining SUTD, he was the Department Head of Machine Intellection at A*STAR Institute for Infocomm Research (I²R), where he led more than 100 scientists to develop cutting-edge AI technologies that delivered high-impact solutions across diverse sectors. He also served as the Technical Director of the Sectoral AI Centre of Excellence for Manufacturing (AIMfg)—a national initiative supported by the Ministry of Trade and Industry (MTI) with a funding of S$35.8 million.
 
-Recent News
-======
-- [09/2024] Our paper “Local-Global Correlation Fusion based Graph Neural Network for Remaining Useful Life Prediction” has been reported on [A*STAR Research Highlights](https://research.a-star.edu.sg/articles/highlights/keeping-tabs-on-moving-parts/)
+He has been a trusted advisor and technical panel member for several key government agencies, including the Infocomm Media Development Authority (IMDA), Ministry of Education (MOE), Ministry of Health (MOH), and the Smart Nation and Digital Government Office (SNDGO) under the Prime Minister’s Office. In academia, he has held adjunct faculty appointments at both the National University of Singapore (NUS) and Nanyang Technological University (NTU).
 
-- [08/2024] One paper entitled “SEA++: Multi-Graph-based High-Order Sensor Alignment for Multivariate Time-Series Unsupervised Domain Adaptation” has been accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence**
+Prof Li is internationally recognised in the AI community and has held leadership roles at top-tier conferences including NeurIPS, ICLR, KDD, ICDM, WWW, IJCAI, AAAI, ACL, and EMNLP—serving as Conference Chair, Area Chair, Workshop Chair, and Session Chair.
 
-- [12/2023] Two papers entitled “Graph Contextual Contrasting for Multivariate Time Series Classification” and “Fully-Connected Spatial-Temporal Graph for Multivariate Time Series Data” has been accepted by **AAAI 2024 (acceptance rate: 23.75%)**
+He has published over 380 research papers in leading AI and data science conferences and journals. He is currently an Associate Editor of IEEE Transactions on Artificial Intelligence. His research excellence is widely acknowledged—he has been named a Clarivate Highly Cited Researcher and is listed among the world’s top 2% scientists by Stanford University.
 
-- [10/2023] One paper entitled “Local-Global Correlation Fusion based Graph Neural Network for Remaining Useful Life Prediction” has been accepted by **IEEE Transactions on Neural Networks and Learning Systems**
+In addition to his academic credentials, Prof Li has deep industry experience. He has led more than 10 collaborative R&D projects with partners across verticals including aerospace, telecommunications, insurance, and aviation. He has also served as joint lab director with industry leaders such as DBS, Singtel, and KPMG. His expertise in AI, machine learning, and data mining has enabled him to develop innovative solutions addressing complex real-world challenges.
 
-- [01/2023] One paper entitled “Multivariate Time Series Representation Learning via Hierarchical Correlation Pooling Boosted Graph Neural Network” has been accepted by **IEEE Transactions on Artificial Intelligence**
+## research interest 
 
-- [11/2022] One paper entitled “SEnsor Alignment for Multivariate Time-Series Unsupervised Domain Adaptation” has been accepted by **AAAI 2023 (acceptance rate: 19.6%)**
+Prof Li’s research spans machine learning, data mining, graph learning, and time series analysis, with real-world applications in smart manufacturing, semiconductors, and the digital economy.
+
+
 
 
 
