@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-- Prof Li Xiaoli joined SUTD on 15 August 2025 as Head of the Information Systems Technology and Design (ISTD) Pillar. In this role, he provides strategic leadership in academic programme development, research direction, and industry engagement across the Pillar.
+# Biography
+
+Prof Li Xiaoli joined SUTD on 15 August 2025 as Head of the Information Systems Technology and Design (ISTD) Pillar. In this role, he provides strategic leadership in academic programme development, research direction, and industry engagement across the Pillar.
 
 Prof Li brings over 30 years of combined experience in academia and industry. Before joining SUTD, he was the Department Head of Machine Intellection at A*STAR Institute for Infocomm Research (I²R), where he led more than 100 scientists to develop cutting-edge AI technologies that delivered high-impact solutions across diverse sectors. He also served as the Technical Director of the Sectoral AI Centre of Excellence for Manufacturing (AIMfg)—a national initiative supported by the Ministry of Trade and Industry (MTI) with a funding of S$35.8 million.
 
@@ -27,5 +29,3 @@ Prof Li’s research spans machine learning, data mining, graph learning, and ti
 
 
 
-
-<a href="http://s01.flagcounter.com/more/N3Fi"><img src="https://s01.flagcounter.com/map/N3Fi/size_t/txt_000000/border_622DCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
