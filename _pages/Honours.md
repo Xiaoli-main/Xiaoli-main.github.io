@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /contact/
+permalink: /Honours/
 author_profile: true
 redirect_from:
   - /resume
