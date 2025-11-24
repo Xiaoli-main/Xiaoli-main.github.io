@@ -9,15 +9,16 @@ redirect_from:
 {% include base_path %}
 
 
+
 Contact
 ======
 
 ### Address
-Institute for Infocomm Research, A*STAR
+Information Systems Technology and Design Pillar, Singapore University of Technology and Design
 
-1 Fusionopolis Way, Connexis S11C051, Singapore 138632
+8 Somapah Road, Singapore, 487372
 
 ### Contact information
--  Email: yucheng003[at]e.ntu.edu.sg
--  Wechat: 15386429491
--  No.: +65 87726123
+-  Email: xiaoli_li[at]sutd.edu.sg
+
+
