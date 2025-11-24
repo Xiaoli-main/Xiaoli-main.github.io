@@ -21,7 +21,7 @@ He has published over 380 research papers in leading AI and data science confere
 
 In addition to his academic credentials, Prof Li has deep industry experience. He has led more than 10 collaborative R&D projects with partners across verticals including aerospace, telecommunications, insurance, and aviation. He has also served as joint lab director with industry leaders such as DBS, Singtel, and KPMG. His expertise in AI, machine learning, and data mining has enabled him to develop innovative solutions addressing complex real-world challenges.
 
-## research interest 
+## Research Interest 
 
 Prof Li’s research spans machine learning, data mining, graph learning, and time series analysis, with real-world applications in smart manufacturing, semiconductors, and the digital economy.
 
